@@ -1,7 +1,8 @@
 # Thaina Mai
 ## Hello World :v::smile: 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/61430925/87200347-b42d2680-c2d2-11ea-9a47-b4ca283aa4e3.png" width="200" height="200">
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/61430925/87200347-b42d2680-c2d2-11ea-9a47-b4ca283aa4e3.png" width="400" height="400">
 </p>
 
 #### I'm Thaina Mai, from Brazil. Currently studying to become a junior dev.

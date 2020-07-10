@@ -10,11 +10,11 @@
 * NodeJS 
 * ReactJs 
 * React Native 
-##### :star: Technologies: 
+#### :star: Technologies: 
 * HTML5
 * CSS3
 * JavaScript 
-##### 💬 Ask me about 
+#### 💬 Ask me about 
 * Video game
 * Anime
 <!--

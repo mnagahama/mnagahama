@@ -29,9 +29,24 @@ Algumas curiosidades
 </ul>
 </details>
 
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=mnagahama&show_icons=true&hide_border=true&theme=tokyonight)
+<details>	
+  <summary><b>🏆 Github Status</b></summary>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnagahama&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnagahama&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Setup </b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10 (transitando para o Ubuntu 18.04)</li>
+	    <li><b>Notebook: </b> Dell g3(i5)</li>
+  	    <li><b>Browser: </b> Google Chrome</li>
+	    <li><b>Code Editor:</b> VSCode</li>
+	</ul>	
+</details>
 
 ##  Contatos :speech_balloon:
 <p align="center">

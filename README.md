@@ -41,7 +41,7 @@ Algumas curiosidades
   <br />
   <summary><b>⚙️ Setup </b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 (transitando para o Ubuntu 18.04)</li>
+  	    <li><b>OS:</b> Ubuntu 18.04 LTS</li>
 	    <li><b>Notebook: </b> Dell g3(i5)</li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> VSCode</li>

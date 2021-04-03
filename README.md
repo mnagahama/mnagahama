@@ -8,7 +8,6 @@
 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> Bom dia, boa tarde ou boa noite, depende da hora que voce esta lendo. Meu nome é Thaina Mai mas pode me chamar de Mai, é mais facil.
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> Atualmente estou estudando 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/mnagahama)](https://github.com/mnagahama) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/mnagahama)](https://github.com/mnagahama) 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> No momento as minhas stacks são
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/mnagahama)](https://github.com/mnagahama) 

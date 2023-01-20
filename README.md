@@ -28,14 +28,6 @@ Some curiosities
 </details>
 
 <details>	
-  <summary><b>🏆 Github Status</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnagahama&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnagahama&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
-
-</details>
-
-<details>	
   <br />
   <summary><b>⚙️ Setup </b></summary>
   	<ul>

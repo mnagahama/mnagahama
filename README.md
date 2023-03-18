@@ -44,3 +44,5 @@ Some curiosities
  <a href="https://github.com/mnagahama" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/thaina-mai-179626162/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
+
+![snake gif](https://github.com/mnagahama/mnagahama/blob/output/github-contribution-grid-snake.gif)
